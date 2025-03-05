@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aadhya Nayak</h1>
 <h3 align="center">A passionate student from Pune</h3>
 
-- # 👋 Welcome to My Portfolio
-
 🚀 I am a creative and innovative **7th-grade student** passionate about **Robotics, Problem-Solving, and Technology**. Always eager to learn and apply knowledge in real-world projects!
 
 ---
