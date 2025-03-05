@@ -24,5 +24,4 @@
 ## 📜 Certificates
 🔗 [View My Certificates](https://drive.google.com/file/d/1ijiZXIMUXjPyArU8i36yWs4wwFiyYui5/view?usp=sharing)
 
--->
-  
+
